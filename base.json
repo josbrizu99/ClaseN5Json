@@ -1,0 +1,32 @@
+{
+    "proyecto":[
+        {
+            "id": 1,
+            "nombre": "Proyecto Clinica Odontologica",
+            "descripcion": "Desarrollo de un sistema de gestion para la Clinica",
+            "tareas":[
+                {
+                    "id": 1,
+                    "nombre": "Diseñar la base de datos",
+                    "descripcion": "Crear la estructura de la base de datos",
+                    "estado_completado": false,
+                    "fecha_limite": "2024-12-01"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Desarrollar la interfaz de usuario",
+                    "descripcion": "Crear la interfaz de usuario para el sistema",
+                    "estado_completado": false,
+                    "fecha_limite": "2024-12-15"
+                    },
+                {
+                    "id": 3,
+                    "nombre": "Implementar la logica de negocio",
+                    "descripcion": "Crear la logica de negocio para el sistema",
+                    "estado_completado": false,
+                    "fecha_limite": "2024-12-20"
+                }
+            ]
+        }
+            ]
+}

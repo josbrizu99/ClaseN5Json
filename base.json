@@ -1,10 +1,19 @@
 {
+<<<<<<< HEAD
+    "proyecto": [
+        {
+            "id": 1,
+            "nombre": "TAREAS DE CLINICA ODONTOLÓGICA",
+            "descripcion": "Listado de tareas pendientes para el proyecto.",
+            "tareas": [
+=======
     "proyecto":[
         {
             "id": 1,
             "nombre": "Proyecto Clinica Odontologica",
             "descripcion": "Desarrollo de un sistema de gestion para la Clinica",
             "tareas":[
+>>>>>>> 1bfff691bcca77d2d59ab7cd00b2e1d77c6543aa
                 {
                     "id": 1,
                     "nombre": "Diseñar la base de datos",
@@ -18,15 +27,28 @@
                     "descripcion": "Crear la interfaz de usuario para el sistema",
                     "estado_completado": false,
                     "fecha_limite": "2024-12-15"
+<<<<<<< HEAD
+                },
+                {
+                    "id": 3,
+                    "nombre": "Implementar la lógica de negocio",
+                    "descripcion": "Crear la lógica de negocio para el sistema",
+=======
                     },
                 {
                     "id": 3,
                     "nombre": "Implementar la logica de negocio",
                     "descripcion": "Crear la logica de negocio para el sistema",
+>>>>>>> 1bfff691bcca77d2d59ab7cd00b2e1d77c6543aa
                     "estado_completado": false,
                     "fecha_limite": "2024-12-20"
                 }
             ]
         }
+<<<<<<< HEAD
+    ]
+}
+=======
             ]
 }
+>>>>>>> 1bfff691bcca77d2d59ab7cd00b2e1d77c6543aa
